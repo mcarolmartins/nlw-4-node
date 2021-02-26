@@ -10,3 +10,5 @@ Para rodar essa aplicação em seu computador você deve clonar esse repositóri
 yarn install
 yarn dev
 ```
+## Tecnologias
+Para desenvolver essa aplicação utilizei o framework ```express``` do Node, que me permite criar qualquer tipo de aplicativo e ferramenta do lado do servidor (backend) em JavaScript. Para criar as migrations, utilizei o ```Object Relational Mapper TypeORM```, que funciona como uma técnica de mapeamento dos objetos relacionais. O banco de dados utilizados foi o ```SQLite```, por ser uma aplicação com poucas requisições. Para enviar e-mails utilizei o módulo ```nodemailer``` e por fim, para criar o template do e-mail utilizei o ````Handlebars``` que me permitiu modelar a mensagem de envio de e-mail utilizando JavaScript e CSS.
