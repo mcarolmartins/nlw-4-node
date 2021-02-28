@@ -3,7 +3,7 @@
 Essa aplicação foi desenvolvida para realizar o cálculo __NPS__ (Net Promoter Score) e claro, treinar o desenvolvimento backend utilizando Node.JS.
 
 ![]()
-[![Assista o vídeo dessa aplicação!](/src/email.png)](https://youtu.be/MFa6CleR6Lw)
+[![Assista o vídeo dessa aplicação!]](https://youtu.be/MFa6CleR6Lw)
 
 
 ## Instalação
